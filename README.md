@@ -1,4 +1,4 @@
-# Credit Score Classification Model
+# Stock Price Prediction Model
  
  <!-- Replace with an image relevant to your project -->
 
