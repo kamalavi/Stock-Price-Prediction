@@ -20,7 +20,7 @@ Stock price prediction is a challenging and popular area of financial analysis. 
 This project utilizes Yahoo Finance's API to retrieve historical stock price data. The data is retrieved for a specified stock symbol and time period and saved in a CSV file for further processing.
 
 ## Data Cleaning, Analysis, and Visualization
-The data_analysis directory contains scripts and notebooks for data cleaning, analysis, and visualization. The primary steps include handling missing values, calculating key metrics (e.g., moving averages), and generating various plots and charts to visualize trends, volatility, and other patterns in the data.
+The Jupyter notebook contains code for data cleaning, analysis, and visualization. The primary steps include handling missing values, calculating key metrics (e.g., moving averages), and generating various plots and charts to visualize trends, volatility, and other patterns in the data.
 
 ## LSTM Model for Stock Price Prediction
 To evaluate the accuracy of the LSTM model's predictions, the Root Mean Squared Error (RMSE) is commonly used. RMSE measures the average magnitude of the errors between predicted and actual values, providing a sense of how well the model's predictions align with the ground truth.
